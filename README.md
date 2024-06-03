@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashan0901" alt="ashan0901" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning , Deep Learning**
+- 🔭 I’m undergraduate student at **University of Kelaniya**
+
+- 🌱 I’m currently learning **Full Stack Development ,Machine Learning , Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://react-portfolio-ashan.vercel.app/](https://react-portfolio-ashan.vercel.app/)
 
@@ -14,8 +16,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ashan fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashan fernando" height="30" width="40" /></a>
+<a href="https://kaggle.com/ashan0901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashan0901" height="30" width="40" /></a>
 <a href="https://fb.com/ashan fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashan fernando" height="30" width="40" /></a>
 <a href="https://instagram.com/ashan_fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashan_fernando" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ashan fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ashan fernando" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ashanchanuka1211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashanchanuka1211" height="30" width="40" /></a>
 </p>
 
