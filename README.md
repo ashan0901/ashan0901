@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ashan-fernando-06960b222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashan fernando" height="30" width="40" /></a>
 <a href="[https://fb.com/ashan fernando](https://www.facebook.com/profile.php?id=100008487134621&mibextid=LQQJ4d)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashan fernando" height="30" width="40" /></a>
-<a href="https://instagram.com/ashan_fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashan_fernando" height="30" width="40" /></a>
+<a href="[https://instagram.com/ashan_fernando](https://www.instagram.com/_a_s_h_a_nfdo_?igsh=MWxtanFpZ3N5ZzA0YQ%3D%3D&utm_source=qr)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashan_fernando" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ashanchanuka1211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashanchanuka1211" height="30" width="40" /></a>
 </p>
 
